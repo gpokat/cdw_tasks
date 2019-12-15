@@ -10,7 +10,7 @@ List of most interesting tasks:
 | 1kyu_77_Skyscrapers                  | Exact cover problem                | AlgorithmX with tree pruning (DLX) |
 | 1kyu_Square_sums                     | Hamilton path problem              | Greedy search with Warnsdorff rule |
 | 1kyu_Sliding_Puzzle_Solver           | Large-Scale Sliding puzzle(10x10)  | DSolving (State Transition Table)  |
-| Will be added                        | 9x9 sudoku puzzle                  | Classic AlgorithmX                 |
+| 4kyu_Sudoku_Solver_Validator         | 9x9 sudoku puzzle                  | Classic AlgorithmX                 |
 | Will be added                        | Stohastic optimization             | Ant Colony Optimization (ACO)      |
 | Will be added                        | Stohastic optimization             | Simulated Anneling (SA)            |
 
