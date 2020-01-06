@@ -1,18 +1,29 @@
 
-![alt text](https://www.codewars.com/users/harjke/badges/large)
-
 This is repositiry with my tasks solutions at Codewars.com which have been solved by using C++.
+
+### [Profile](http://www.codewars.com/users/harjke)
+![Codewars Rank](https://www.codewars.com/users/harjke/badges/large)
 
 List of most interesting tasks:
 
-| Kata name                            | Goal                               | Solved by                          |
-| ------------------------------------ | -------------------------------    | ---------------------------------- |
-| 1kyu_77_Skyscrapers                  | Exact cover problem                | AlgorithmX with tree pruning (DLX) |
-| 1kyu_Square_sums                     | Hamilton path problem              | Greedy search with Warnsdorff rule |
-| 1kyu_Sliding_Puzzle_Solver           | Large-Scale Sliding puzzle(10x10)  | DSolving (State Transition Table)  |
+| Kata name                            | Goal                                   | Solved by                          |
+| ------------------------------------ | -------------------------------        | ---------------------------------- |
+| 1kyu_77_Skyscrapers                  | Exact cover problem                    | AlgorithmX with tree pruning (DLX) |
+| 1kyu_Square_sums                     | Hamilton path problem                  | Greedy search with Warnsdorff rule |
+| 1kyu_Sliding_Puzzle_Solver           | Large-Scale Sliding puzzle(10x10)      | DSolving (State Transition Table)  |
 | 2kyu_Integer_Square_Root             | isqrt for BigInteger (up to 100 digits)| BigBinaryArithmetic and fast isqrt |
-| 4kyu_Sudoku_Solution_Validator       | 9x9 sudoku puzzle                  | Classic AlgorithmX                 |
-| Will be added                        | Stohastic optimization             | Ant Colony Optimization (ACO)      |
-| Will be added                        | Stohastic optimization             | Simulated Anneling (SA)            |
+| 4kyu_Sudoku_Solution_Validator       | 9x9 sudoku puzzle                      | Classic AlgorithmX                 |
+| Will be added                        | Stohastic optimization                 | Ant Colony Optimization (ACO)      |
+| Will be added                        | Stohastic optimization                 | Simulated Anneling (SA)            |
 
-At Codewars.com code have to passed all test withing 12 second time limit without any compiller flags optimizations like -02/-03.
+At Codewars.com solution have to passed all test withing 12 second time limit by using C++14 w/o any flag optimizations or by using C++17 with -02.
+
+The ### [Ranking](http://www.codewars.com/about) scheme is
+
+|Kata lvl | Knowlege lvl|
+|---------|-------------|
+|8/7 kyu  │ Beginner    |
+|6/5 kyu  │ Novice      |
+|4/3 kyu  │ Competent   |
+|2/1 kyu  │ Proficient  |
+|1/5 dan  │ Master      |
