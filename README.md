@@ -18,12 +18,12 @@ List of most interesting tasks:
 
 At Codewars.com solution have to passed all test withing 12 second time limit by using C++14 w/o any flag optimizations or by using C++17 with -02.
 
-The ### [Ranking](http://www.codewars.com/about) scheme is
+### [Ranking](http://www.codewars.com/about) scheme is
 
 |Kata lvl | Knowlege lvl|
 |---------|-------------|
-|8/7 kyu  │ Beginner    |
-|6/5 kyu  │ Novice      |
-|4/3 kyu  │ Competent   |
-|2/1 kyu  │ Proficient  |
-|1/5 dan  │ Master      |
+|8/7 kyu  | Beginner    |
+|6/5 kyu  | Novice      |
+|4/3 kyu  | Competent   |
+|2/1 kyu  | Proficient  |
+|1/5 dan  | Master      |
