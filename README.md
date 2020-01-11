@@ -12,6 +12,7 @@ List of most interesting tasks:
 | 1kyu_Square_sums                     | Hamilton path problem                  | Greedy search with Warnsdorff rule |
 | 1kyu_Sliding_Puzzle_Solver           | Large-Scale Sliding puzzle(10x10)      | DSolving (State Transition Table)  |
 | 2kyu_Integer_Square_Root             | isqrt for BigInteger (up to 100 digits)| BigBinaryArithmetic and fast isqrt |
+| 3kyu_Divide_integers_as_strings      | Dividing two BigIntegers               | Long division, long substruction   |
 | 4kyu_Sudoku_Solution_Validator       | 9x9 sudoku puzzle                      | Classic AlgorithmX                 |
 | Will be added                        | Stohastic optimization                 | Ant Colony Optimization (ACO)      |
 | Will be added                        | Stohastic optimization                 | Simulated Anneling (SA)            |
