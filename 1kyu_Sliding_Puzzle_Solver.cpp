@@ -652,3 +652,11 @@ std::vector<int> slide_puzzle(const std::vector<std::vector<int>> &arr)
 FindSolution(puzzle);
     return MovingBlankHistory;
 }
+
+//Code optimization
+//lvl 1 -- hardcoded factorials table                   <--- DONE
+//lvl 2 -- replace push_back to emplace_back            <--- DONE
+//lvl 3 -- replace post- to pre- increment              <--- DONE
+//lvl 4 -- constexpr hash_maps 2x3 && 3x2               <--- UNDONE
+//lvl 5 -- change stochastic filling to determetistic   <--- UNDONE
+//lvl 6 -- change default compiller flags to -03 ?      <--- UNDONE
