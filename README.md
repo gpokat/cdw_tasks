@@ -1,5 +1,5 @@
 
-This is repositiry with my tasks solutions at Codewars.com which have been solved by using C++.
+This is repository with my tasks solutions at Codewars.com which have been solved by using C++.
 
 ### [Profile](http://www.codewars.com/users/harjke)
 ![Codewars Rank](https://www.codewars.com/users/harjke/badges/large)
