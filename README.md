@@ -30,3 +30,8 @@ At Codewars.com solution have to passed all test withing 12 second time limit by
 |4/3 kyu  | Competent   |
 |2/1 kyu  | Proficient  |
 |1/5 dan  | Master      |
+
+> :warning: **WARNING !**: Please, be respectful ! Don't stole or just copy private solution. Try to solve it by self or contact me for help. =) Be like me :P
+
+### [Read about codewars project] (https://github.com/codewars/codewars.com/wiki/About-Codewars)
+
